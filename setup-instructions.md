@@ -1,8 +1,3 @@
-This information is taken from the following git-repositories:
-
-* https://github.com/tmacwill/vimrc
-* https://github.com/edkolev/promptline.vim
-
 ### Step-1
 ```
 sudo apt-get install vim-nox
